@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    background-image: url('https://png.pngtree.com/background/20230611/original/pngtree-pictures-of-the-moon-wallpaper-picture-image_3167245.jpg'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+    font-family: sans-serif;
+}
+
+button {
+    font-size: 20px;
+}
